@@ -1,4 +1,4 @@
-##🍔 Online Food Delivery System (OFDS)##
+#🍔 Online Food Delivery System (OFDS)#
 
 This is a group project for the Foundation of Software Engineering course.
 
