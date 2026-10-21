@@ -16,7 +16,12 @@ System Features
 Files
 
 * Project Report
-* Project Presentation 
+* Project Presentation
+* Use Case Diagram
+* Use Case Description
+* Class Diagram
+* Sequence Diagram
+* Activity Diagram
 
 Course
 
